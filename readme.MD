@@ -6,6 +6,8 @@ This project is an automation aiming to help people who wants make a large quant
 
 #### Run
 ```python
+source venv/bin/activate
+pip install -f requirements.txt
 python3 app.py
 ```
 
